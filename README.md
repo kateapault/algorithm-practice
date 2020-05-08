@@ -1,9 +1,9 @@
-A collection of my solutions to practice problems on Leetcode and Project Euler. 
+<h2>A collection of my solutions to practice problems on Leetcode and Project Euler. </h2>
 
-There's one file per problem, and each file is named in the following format:
-[problem number]-problem-name
+<p>Each problem has its own file and is named using the following format:
+<p>[problem number]-problem-name
 
-Leetcode problems are mainly in Ruby and Project Euler problems are in Python.
+<p>Leetcode problems are mainly in Ruby and Project Euler problems are in Python.
 
-Leetcode problems completed (in here): 2
-Project Euler problems completed (in here): 1
+<p>Leetcode problems in repo: <h4>2</h4>
+<p>Project Euler problems in repo: <h4>2</h4>
