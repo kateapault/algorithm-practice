@@ -5,5 +5,5 @@
 
 <p>Leetcode problems are mainly in Ruby and Project Euler problems are in Python.
 
-<p>Leetcode problems in repo: <h4>2</h4>
-<p>Project Euler problems in repo: <h4>2</h4>
+<p>Leetcode problems in repo: 3, 7, 9, 13, 20, 88, 169, 202, 415 <h4>2</h4>
+<p>Project Euler problems in repo: 1, 2, 5, 6<h4>2</h4>
