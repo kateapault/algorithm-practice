@@ -1,0 +1,33 @@
+SORTS
+-selection
+-bubble
+-recursive bubble
+-insertion
+-recursive insertion
+-merge
+-iterative merge
+-quick
+-iterative quick
+-heap
+-counting
+-radix
+-bucket
+-shell
+-tim
+-comb
+-pigeonhole
+-cycle
+-cocktail
+-strand
+-bitonic
+-pancake
+-binary insertion
+-bogo / permutation
+-gnome
+-sleep
+-structure
+-stooge
+-tag
+-tree
+-cartesian tree
+-odd/even / brick
